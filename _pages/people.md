@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "People"
-permalink: /poeple/
+permalink: /people/
 ---
 Chanwoo Park 
 ![](../assets/img/cwpark.jpg)
