@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Mail
-======
+
 * mlkorea.manager@gmail.com 
 * If you want a quick answer, then mail to chanwoo.park@snu.ac.kr or chris2tg@snu.ac.kr 
